@@ -1,0 +1,6 @@
+
+Introduzione alla tecnologia>
+- Slides e storia
+- Panoramica tecnologia e buzzwords
+
+Programmi frontend
