@@ -1,0 +1,130 @@
+PO:
+	Training:
+		Scrum introduction
+		Design a product (Slides ad hoc)
+			-> User stories
+			-> Sprint
+			-> Grooming
+			-> Estimation
+			-> Retrospective
+	
+	Artifact:
+		Slides about product
+	
+ANALIST:
+
+	Requirements:
+	Functional
+	Non Functional
+
+	Domain Analysis:
+	ERD Diagram
+		
+	Workflows:
+	Activity Diagram
+
+TOOLS
+	
+	Git
+	Trello (Kanban board)
+
+FRONTEND:
+
+	Prototype from Template
+		Html
+
+	ES6 
+		Intro to Node.js
+		Express
+		Serve static html	
+		Ajax Calls
+		Unit Test
+		Integration tests (Mockoon, Mockaroo)
+
+	React:
+		Core:
+			JSX
+			Component
+			Event
+			State
+		
+		Router:
+		
+		DataTable:
+			Basic
+			Sorting
+			Pagination
+			
+		UnitTest:
+			Jest
+			Enzyme
+			
+		Redux:
+			Core (setup, reducers, actions, state)
+			HO Functions
+			Thunk Middleware
+		Context Api:
+		Hooks:
+
+BACKEND:
+
+	Java Core:
+		Collections
+		Jdbc
+		Unit Test 
+			JUnit
+			Mockito	
+	Spring
+		Core:
+			Ioc
+			DI
+			Aop
+		Test:
+			Spring Unit Tests
+			
+		SBOOT
+			SData:
+			SMVC:
+			SS:
+
+QA:
+
+	HeidiSql 
+	Selenium UI
+	Postman api
+
+DEV OPS:
+	AWS:
+		
+		Billing and admin
+		
+		Iaam Users
+		
+		Deploy on EC2
+			MySql
+			Frontend on Node
+			Backend SBOOT
+			
+		Docker
+			Intro:
+				
+			Dockerify app:
+				MySql
+				Frontend on Node
+				Backend SBOOT
+		
+		Deploy docker containers on ECS:
+			MySql
+			Frontend on Node
+			Backend SBOOT
+			
+		Kubernetes:
+			Intro:
+				Slides
+				
+		Deploy App as Kubernetes clusters on EKS:
+			MySql
+			Frontend on Node
+			Backend SBOOT
+
+

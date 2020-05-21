@@ -1,0 +1,12 @@
+CRUD REST:
+https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial
+
+Deploy on AWS EC with CLI
+https://www.callicoder.com/deploy-host-spring-boot-apps-on-aws-using-elastic-beanstalk/
+
+SECURITY:
+https://github.com/callicoder/spring-boot-react-oauth2-social-login-demo/blob/master/react-social/README.md
+
+
+NodeJs FullStack
+https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/

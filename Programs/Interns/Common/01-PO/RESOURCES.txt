@@ -1,0 +1,14 @@
+
+
+REFERENCE SITES:
+https://www.modernanalyst.com
+
+
+
+Requirements and use case
+
+	Modern UC:
+	https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/5585/Use-Cases--The-New-School.aspx
+
+	Case study:
+	https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/5444/Trips-R-You-Web-based-Flight-Booking-Case-Study.aspx
