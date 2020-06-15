@@ -1,0 +1,64 @@
+
+
+AGILE:
+	Introduction on Agile Methodologies:
+	with animation
+	https://www.youtube.com/playlist?list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS
+
+	To review>
+	https://www.youtube.com/playlist?list=PLsikuZM13-0xY4fBrYbI5TaqVQhaAJqAn
+
+	Voice From Experts:
+	How to Split user stories:
+		https://www.youtube.com/watch?v=4xta7AyIpkI
+
+JIRA:
+	Intro on Features:
+	
+	
+	Project management:
+		Video:	https://www.youtube.com/watch?v=TsG3OWTDAFY&list=PLhVi8kCwz5uvwDF_c4LDRSOehj7qoC9-h
+		Slides:	https://www.slideshare.net/chuparkoff/a-new-introduction-to-jira-agile-product-management
+
+
+		More Details:
+		https://www.youtube.com/playlist?list=PLTgRMOcmRb3Mnnvcyk7TiBmc4eXxvv_pG
+		
+
+		India (Many Lectures)
+		https://www.youtube.com/watch?v=0fxnplgUOs0&list=PLaFzfwmPR7_KEFu3-mvdxQC4gsoiEOMNu
+		https://www.youtube.com/watch?v=d0M2s0KiIrc&list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt
+
+
+
+ANALYST:
+
+
+	Analysis Course by Birgit Penzenstadler:
+	Introduction:
+	https://www.youtube.com/watch?v=j8n7vE7DZto&list=PLUgFMzuE8lQDLRhCNs19-RHpUY-_6ZI6Y&index=3
+
+	Playlist:
+	https://www.youtube.com/playlist?list=PLUgFMzuE8lQDLRhCNs19-RHpUY-_6ZI6Y
+
+	Software Engineering:
+	https://www.youtube.com/watch?v=NdY_jTev8FA&list=PLUgFMzuE8lQB7bgpEZXihIxmVD62f6Vc7
+
+
+FRONTEND:
+
+
+
+
+CRUD REST:
+https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial
+
+Deploy on AWS EC with CLI
+https://www.callicoder.com/deploy-host-spring-boot-apps-on-aws-using-elastic-beanstalk/
+
+SECURITY:
+https://github.com/callicoder/spring-boot-react-oauth2-social-login-demo/blob/master/react-social/README.md
+
+
+NodeJs FullStack
+https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/
