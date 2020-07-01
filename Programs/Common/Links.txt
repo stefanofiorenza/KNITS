@@ -31,6 +31,9 @@ JIRA:
 
 
 
+		JIRA Tutorials Docs:
+		https://www.tutorialspoint.com/jira/jira_dashboard.htm
+
 ANALYST:
 
 
@@ -47,7 +50,7 @@ ANALYST:
 
 FRONTEND:
 
-
+	
 
 
 CRUD REST:
