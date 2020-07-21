@@ -1,0 +1,13 @@
+
+
+
+Tutorials:
+
+https://blog.risingstack.com/getting-started-with-ansible-infrastructure-automation/
+https://www.tutorialandexample.com/ansible-tutorial/
+https://www.guru99.com/ansible-tutorial.html
+https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-tutorial/
+
+
+Step by Step introduction:
+https://blog.ssdnodes.com/blog/step-by-step-ansible-guide/

@@ -1,0 +1,33 @@
+
+
+Docs:
+
+Intro:
+https://www.tutorialandexample.com/
+
+
+
+
+
+Youtube Channels:
+
+	SimplyLearn (
+	https://www.youtube.com/c/SimplilearnOfficial/playlists
+
+	Intellipaat: (Machine Learning, DevOps, Big data)
+	https://www.youtube.com/c/Intellipaat/playlists
+
+	In28Minutes
+	https://www.youtube.com/c/rithustutorials/playlists
+
+	Edureka:
+	https://www.youtube.com/c/edurekaIN/playlists
+
+	KodeKloud:
+	https://www.youtube.com/c/KodeKloud/playlists
+		
+	networknutsdotnet (Mostly)
+	https://www.youtube.com/c/networknutsdotnet/playlists
+
+
+Labs:

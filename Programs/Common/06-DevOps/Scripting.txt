@@ -1,0 +1,3 @@
+
+Scripting (Python, Bash, Docker, AWS Cli) INDI 
+https://www.youtube.com/c/AutomationwithScripting/playlists
