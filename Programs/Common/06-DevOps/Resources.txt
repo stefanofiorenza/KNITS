@@ -1,0 +1,35 @@
+
+
+
+AWS Intro:
+
+
+
+
+
+
+
+Docker
+
+
+Kubernetes:
+
+
+
+
+Ansible:
+
+
+
+REVIEW:
+
+	Docs:
+
+	Youtube:
+	
+Video:
+
+
+
+
+Jenkins:

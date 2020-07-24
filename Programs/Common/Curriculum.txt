@@ -1,17 +1,29 @@
 PO:
 	Training:
-		Scrum introduction
+		Scrum introduction:
+		
+		
 		Design a product (Slides ad hoc)
+		Artifact:
+			Slides about product
+		
+		JIRA:
 			-> User stories
+			-> Issues:
+				> Epic
+				> Story
+				> Task
+				> Bug
 			-> Sprint
 			-> Grooming
 			-> Estimation
 			-> Retrospective
+			-> Advanced:
+				> Workflows
+				> Query
 	
-	Artifact:
-		Slides about product
 	
-ANALIST:
+ANALYST:
 
 	Requirements:
 	Functional
@@ -26,7 +38,7 @@ ANALIST:
 TOOLS
 	
 	Git
-	Trello (Kanban board)
+	JIRA (Kanban board)
 
 FRONTEND:
 
