@@ -1,14 +1,66 @@
 
 
-REFERENCE SITES:
-https://www.modernanalyst.com
+DOCS:
+
+	User Story and Acceptance Criteria:
+	https://qmo.io/blog/acceptance-criteria/
+	
+	
+
+
+VIDEO:
+
+	
+
+	Agile:
+
+		What Is Agile:
+		https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS
+		
+		Agile is a methodology?
+		https://www.youtube.com/watch?v=ZZ_vnqvW4DQ&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS&index=10&t=0s
+		
+		User Stories:
+		https://www.youtube.com/watch?v=ctFzjMygaRo&list=PLkTwPtQYbjvtb-5V1UMtzKkkz8QY0g5Sz
+
+		Scrum vs Kanban:
+		https://www.youtube.com/watch?v=rIaz-l1Kf8w
+
+		SCRUM Introduction and Best Practice:
+		https://www.youtube.com/watch?v=RaaBrPCo_Mw
+		
+	
+	Product Owner:
+		https://www.youtube.com/watch?v=502ILHjX9EE
+
+
+	
+	JIRA:
+
+		Introduction
+		https://www.youtube.com/playlist?list=PLhVi8kCwz5uvwDF_c4LDRSOehj7qoC9-h
 
 
 
-Requirements and use case
+	
+	
 
-	Modern UC:
-	https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/5585/Use-Cases--The-New-School.aspx
+	CASE STUDY:
 
-	Case study:
-	https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/5444/Trips-R-You-Web-based-Flight-Booking-Case-Study.aspx
+		Case study walkthrough: (Long but has links to chapters)
+		https://www.youtube.com/watch?v=pXsPIYwTg64
+
+
+ADDITIONAL RESOURCES:
+
+	Product Management:
+	https://www.youtube.com/watch?v=7j4WGVAsf4Y
+	
+	PM in 25 mins (William Oliveira)
+	https://www.youtube.com/watch?v=i69U0lvi89c&t=15s
+
+	Agile Playlist:
+	https://www.youtube.com/playlist?list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS
+
+	Jira Playlist with full course on basics: (Few minutes Each)
+	https://www.youtube.com/watch?v=DaOw4xXAnUo&list=PLAucYnTm2adzZtkgw4-zRXN-1NNjmZWAu
