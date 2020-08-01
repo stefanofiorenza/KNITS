@@ -1,0 +1,41 @@
+
+
+
+Tutorials Docs
+
+
+@Net Ninja:
+
+	React and Redux
+	https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
+
+	React Context and Hooks:
+	https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
+	
+	
+	Other less up to date:
+
+
+
+Angular:
+
+	Basic Intro:
+	
+
+
+
+	Step by Step tutorial
+	Docs:	https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step	
+	Git:	https://github.com/AngularTemplates/learn-angular-from-scratch-step-by-step
+
+
+	Video:
+	
+		Angular 6 @Codevolution
+				https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
+		Git:  	https://github.com/gopinav
+
+
+		Angular6@ Javabrains
+						https://www.youtube.com/watch?v=9RG3MiEBEIw&list=PLqq-6Pq4lTTb7JGBTogaJ8bm7f8VCvFkj
+		Git Project:	https://github.com/jonasvm/angular-6-basics-course-javabrains

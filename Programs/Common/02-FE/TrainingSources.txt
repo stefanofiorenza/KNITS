@@ -1,0 +1,53 @@
+
+
+Docs:
+	
+		Basic Intro:
+		
+	
+	
+		React
+		
+		Angular:
+		https://www.javatpoint.com/angular-7-tutorial
+		
+		Vue:
+		
+		
+		
+Video Channels:
+
+	Javascript basic + Intermediate:
+	https://www.youtube.com/c/AllThingsJavaScriptLLC/playlists
+
+
+	Frontend Technologies:
+
+
+		Good trainers: (not always git)
+		
+			Academind (Very good trainers)
+			https://www.youtube.com/c/Academind/playlists
+
+			Programming with Mosh (long videos)
+			https://www.youtube.com/c/programmingwithmosh/playlists
+
+
+		Trainers and Git:
+		
+			Net Ninja (Git)
+			https://www.youtube.com/c/TheNetNinja/playlists
+				
+			Codevolution  (Git)
+			https://www.youtube.com/c/Codevolution/playlists
+			
+		Other channels:
+		
+			TraversyMedia:	(Also some projects)
+			https://www.youtube.com/c/TraversyMedia/playlists
+
+			Innovation and Conferences:
+			https://www.youtube.com/c/JSConfEU/playlists
+
+
+

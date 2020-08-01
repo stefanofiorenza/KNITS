@@ -1,0 +1,41 @@
+
+DOCS:
+	
+		ERD Introduction @ Visual Paradigm 
+			https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/
+	
+	
+		Intro and Styles (Dictionary of symbols) 
+			https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning
+	
+	
+		Tutorial Step to Step from design to query
+			Part 1:
+			https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2
+			
+			Part 2:
+			https://towardsdatascience.com/coding-and-implementing-a-relational-database-using-mysql-d9bc69be90f5
+			
+			Part 3:
+			https://towardsdatascience.com/data-analysis-in-mysql-operators-joins-and-more-in-relational-databases-26c0a968e61e
+
+VIDEO:
+
+		ERD:
+		Part 1:
+		https://www.youtube.com/watch?v=QpdhBUYk7Kk&vl=vi
+
+		Part 2:
+		https://www.youtube.com/watch?v=-CuY5ADwn24&vl=en
+		
+		
+		Activity Diagram@Birgit Penzenstadler:
+		https://www.youtube.com/watch?v=m8iwrEEP7A4
+	
+	
+		ADDITIONAL RESOURCES
+		UML Diagrams Playlist:
+			https://www.youtube.com/playlist?list=PL_RvSWIduMYEZd6M7M0e5vSM_e0Jw5hUJ
+			
+		Design and Implementation of Database:
+			https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49
