@@ -98,6 +98,12 @@ BACKEND:
 			SData:
 			SMVC:
 			SS:
+			
+	Hibernate:
+		ORM
+		Transactions
+		Queries
+		Optimizations
 
 QA:
 

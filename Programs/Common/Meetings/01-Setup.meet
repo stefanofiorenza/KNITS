@@ -1,0 +1,66 @@
+
+
+
+1) Present program (Your Journey in KN):
+	
+	How we choose our employees?
+	
+	Personality (KN Values)
+	Technical Skills
+	Logistics
+	
+2) Find Your Product (Slides)
+	
+	
+
+3) Next Steps in Road Map
+
+	Standards And Rules:
+	1) Knowledge level
+	
+	Practitioner:	
+		Empirical, Theoretical, 
+	
+	Professional Junior
+		(1) QA and Unit Test
+		(2) Impl By Design
+		(3) Design
+			
+	Professional Senior:
+		(1) Architecture
+		(2) Frameworks
+		(3) Communication
+		
+	Metrics:
+		Experience
+		- Contribution in project (time, tasks)
+		- N Users of product
+		- N concurrent transactions (day, min, sec)
+	
+	2) Roles and opportunities:
+	
+	
+	
+	3) Logistics
+	
+	
+
+4) Setup JIRA
+
+
+5) Setup Git
+	Create Account if missing:
+	Repositories:
+		5.1) KNP-Docs
+		5.2) KNP-FE
+		5.3) KNP-BE
+	
+		
+5) Introducing FE Templates:
+
+	Criteria to choose it
+	1) Graphic UI
+	2) Forms, UI, Panels and Layout
+	3) Offline e Small dependencies
+	
+6) 

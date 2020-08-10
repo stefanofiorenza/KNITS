@@ -1,22 +1,133 @@
 
 
 EMULATORS:
-https://www.goodfirms.co/community/feed
-https://www.goodfirms.co/blog
 
 
-Working Experience
-- Restaurant Management (Reservation of tables, supplies of ingredients, orders from tables, report of consumed supplies)
-- 
 
-Personal Utility
-- Habit Tracker -> Goals, Time effectiveness
-- X Tracker
+	Technology:
+	
+		1) Analyze features of an application you use often
+		2) Create requirements
+	
+
+	Domain and Technology
+
+		1) Choose a category of product exploring existing categories of softwares:
+
+			category of softwares with reviews:
+			https://www.predictiveanalyticstoday.com/
+			https://www.softwareadvice.com/categories/
+			https://www.capterra.com/categories
+			https://www.goodfirms.co/directories/software/
+
+
+		2) Select a set of interesting products (not more than 10)
+			2.1) Open Source
+			2.2) Has a Pdf manual with all features with screenshots
+			2.3) Has a demo in the cloud 
+		
+		
+		3) Collect and Evaluate Product Documentation: (try to get at least 5)
+			2.1) Manuals
+			2.2) Videos
+			2.3) Blog
+
+
+		3) Choose product to emulate: 
+
+
+		4) Analyze requirements (they can be merged by different manuals by topic)
+
+
+
+
+	Some link to SCM Products with User's Manuals:
+
+	1) Oracle SCM Suite:
+	https://docs.oracle.com/cd/E18727_01/nav/scm.htm
+	
+	2) ERP Next
+	https://docs.erpnext.com/docs/user/manual/en
+
+	3) https://www.magaya.com/downloads/operations_manual.pdf
+	https://www.magaya.com/magaya-supply-chain/
+	
+	
+
+	Some link to OS
+
+
+		Reservation Systems:
+		https://www.goodfirms.co/blog/the-top-7-free-and-open-source-reservation-software
+
+
+		Supply Chain 
+		https://opensource.com/tools/supply-chain-management
+		https://www.goodfirms.co/blog/the-top-9-free-and-open-source-freight-software
+
+
+PERSONAL EXPERIENCE:
+
+	- As Customer: (Supply Chain management)
+		- Restaurant Management (Reservation of tables, supplies of ingredients, orders from tables, report of consumed supplies)
+		- E-Shop (ERP Products)
+		- Supermaket
+		
+		
+	- As Worker:
+		- i.e Delivery biker:
+			Package delivery Tracking
+			Order workflow
+			Bikers Management
+			
+	- As Daily Routines:	
+		- Habit Tracker -> Goals, Time effectiveness
+		- X Tracker (food - different vitamins and nutrients)
+
+
+
+
+PRE PACKAGED:
+
+
+	EASY:
+	- Library on line
+	- Facility Reservation (Room, Projector, Food, Beverages)
+	- HR Recruiting Quiz (Survey Monkey)
+
+
+	INTERMEDIATE:
+	- Basic ERP
+	https://marmelab.com/admin-on-rest-demo/#/ (ERP) This is for posters but you can imagine whatever product
+
+	- Truck Reservation:
+		
+	
+	ADVANCED:
+	
+	- HR Recruiting:
+	From CV to Contract.
+	
+	
+	Real Time 
+	- Tender System
+	- Stock Market
+
+
+
+
+
+
 
 
 Emulators:
+	UI First:
+	https://themeforest.net/category/site-templates/admin-templates
+	
+
 - SurveyMonkey
-- Basic ERP
+
+
 - Reservation System
 	Book 
 
@@ -25,32 +136,32 @@ GameAndSimulations (Business Tycoon)
 - https://www.logitycoon.com/
 
 
-Innovations:
+
+- NGO, University Research
+
+Innovation:
 - 
 
 Open Data:
-- 
-- 
+-
 
 
 
-Logistic Software:
+ERP:
+https://www.selecthub.com/enterprise-resource-planning/erp-requirements-checklist-cheat-sheet/
 
-
-	https://www.goodfirms.co/blog/the-top-9-free-and-open-source-freight-software
 
 	Open Source:
 	https://github.com/OpenLMIS
 
 
-	https://www.magaya.com/downloads/operations_manual.pdf
-	https://www.magaya.com/magaya-supply-chain/
+
 
 
 KN:
-https://th.kuehne-nagel.com/other-links/incoterms-2020/
-https://th.kuehne-nagel.com/airfreight/airfreight-products/
-https://th.kuehne-nagel.com/industry-solutions/retail-fmcg/
-https://th.kuehne-nagel.com/en_gb/contract-logistics/contract-logistics-overview/
-https://th.kuehne-nagel.com/seafreight/articles-guides/
-https://th.kuehne-nagel.com/overland/
+	https://th.kuehne-nagel.com/other-links/incoterms-2020/
+	https://th.kuehne-nagel.com/airfreight/airfreight-products/
+	https://th.kuehne-nagel.com/industry-solutions/retail-fmcg/
+	https://th.kuehne-nagel.com/en_gb/contract-logistics/contract-logistics-overview/
+	https://th.kuehne-nagel.com/seafreight/articles-guides/
+	https://th.kuehne-nagel.com/overland/
