@@ -40,6 +40,8 @@ EMULATORS:
 
 
 
+Areas of our main interest
+
 
 	Some link to SCM Products with User's Manuals:
 
@@ -85,6 +87,17 @@ PERSONAL EXPERIENCE:
 		- X Tracker (food - different vitamins and nutrients)
 
 
+EXTERNAL EXPERIENCE:
+
+
+	EMULATORS
+	
+	
+	SIMULATORS
+
+
+
+INNOVATION:
 
 
 PRE PACKAGED:
@@ -117,8 +130,8 @@ PRE PACKAGED:
 
 
 
-
-
+https://en.wikipedia.org/wiki/List_of_business_simulation_video_games
+https://www.logitycoon.com
 
 Emulators:
 	UI First:
