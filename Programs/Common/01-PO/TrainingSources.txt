@@ -8,7 +8,12 @@ Video
 
 Docs:
 
-	https://www.modernanalyst.com/Resources/Articles/tabid/115/articleType/Search/Default.aspx
-	https://insights.sei.cmu.edu/sei_blog/
-	https://bablocks.com/business-analysis-resources/?ref=2
-	https://www.toptal.com/developers/blog
+	Product Owner (Product Management)
+	https://www.atlassian.com/agile
+	
+	Agile:
+	https://www.scrum.org/
+	http://agileme.com.au/
+	https://www.agilesparks.com/blog/
+	
+

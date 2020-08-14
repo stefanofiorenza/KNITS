@@ -34,8 +34,22 @@ VIDEO:
 	
 	
 		ADDITIONAL RESOURCES
+		
+		Full SW Analyst and Design
+		https://www.youtube.com/watch?v=1O0_nGVQEik&list=PLUgFMzuE8lQDLRhCNs19-RHpUY-_6ZI6Y
+		
 		UML Diagrams Playlist:
 			https://www.youtube.com/playlist?list=PL_RvSWIduMYEZd6M7M0e5vSM_e0Jw5hUJ
 			
 		Design and Implementation of Database:
 			https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49
+			
+			
+	Analyst Docs:
+	
+		Stakeholder Onion Diagram
+		http://www.bawiki.com/wiki/Stakeholder-Onion-Diagram.html	
+		
+		Stakeholder Context Template
+		http://www.scenarioplus.org.uk/papers/stakeholders_without_tears/stakeholders_without_tears.htm
+	

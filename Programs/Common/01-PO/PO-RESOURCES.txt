@@ -1,0 +1,103 @@
+
+
+DOCS:
+
+		AGILE AND PRODUCT OWNER:
+		
+			What is Product Owner:
+			https://blog.hubspot.com/service/product-owner
+			
+			User Stories and INVEST principles
+			https://capgemini.github.io/agile/invest-in-user-stories/
+
+			User Story and Acceptance Criteria:
+			https://qmo.io/blog/acceptance-criteria/
+			
+			From Idea to Product:
+			https://www.modernanalyst.com/Careers/InterviewQuestions/tabid/128/ID/2209/List-the-steps-you-would-take-to-bring-a-product-from-idea-to-deployment-and-beyond.aspx
+
+
+		JIRA:
+			Introduction and basics:
+			https://www.tutorialspoint.com/jira/jira_dashboard.htm
+			
+			Complete:
+			https://www.atlassian.com/software/jira/guides
+
+
+	Additional Resources:
+	
+		https://www.agilesparks.com/resources/topicsubject-reading-lists/product-ownership-reading-list/
+	
+
+VIDEO:
+
+
+	Agile and PO:
+
+		Playlist on Product Management @ Railsware
+		https://www.youtube.com/watch?v=pvIN9STpzCQ&list=PLlRtt3cDxl4VfHs-dpYEwoB9R6r0FSNCL
+
+
+		Playlist at KNITS channel:
+		https://www.youtube.com/playlist?list=PLhVi8kCwz5uvBiRCJp9-75yNSnCBcDrWN
+				
+		Single Videos:
+		
+			What is Product Owner: (Choos 
+			https://www.youtube.com/watch?v=jffzx7So8N8
+		
+			What Is Agile: (Agile Manifesto)
+			https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS
+				
+			Agile is a methodology?
+			https://www.youtube.com/watch?v=ZZ_vnqvW4DQ&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS&index=10&t=0s
+					
+			User Stories:
+			https://www.youtube.com/watch?v=ctFzjMygaRo&list=PLkTwPtQYbjvtb-5V1UMtzKkkz8QY0g5Sz
+			
+			Splitting User Stories:
+			https://www.youtube.com/watch?v=EDT0HMtDwYI
+
+			Scrum vs Kanban:
+			https://www.youtube.com/watch?v=rIaz-l1Kf8w
+		
+			SCRUM Introduction and Best Practice:
+			https://www.youtube.com/watch?v=RaaBrPCo_Mw
+			
+			Estimations:
+			https://www.youtube.com/watch?v=Hwu438QSb_g
+		
+	JIRA:
+
+		Introduction
+		https://www.youtube.com/playlist?list=PLhVi8kCwz5uvwDF_c4LDRSOehj7qoC9-h
+
+
+	CASE STUDY:
+
+		Case study walkthrough: (Long but has links to chapters)
+		https://www.youtube.com/watch?v=pXsPIYwTg64
+
+	RECAP THEORY AND SELF EVALUATION: (INTERVIEW QUESTIONS WITH ANSWERS)
+		https://www.youtube.com/watch?v=UlW2xCZpeRM
+
+
+
+
+ADDITIONAL RESOURCES:
+
+	Agile Playlist:
+	https://www.youtube.com/playlist?list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS
+
+	Essential JIRA @ Packt
+	https://www.youtube.com/playlist?list=PLTgRMOcmRb3Mnnvcyk7TiBmc4eXxvv_pG (Essential)
+
+	Jira Playlist with full course on basics: (Few minutes Each)
+	https://www.youtube.com/watch?v=DaOw4xXAnUo&list=PLAucYnTm2adzZtkgw4-zRXN-1NNjmZWAu
+	
+
+
+
+
+

@@ -62,11 +62,14 @@ FRONTEND:
 		
 		Router:
 		
-		DataTable:
-			Basic
-			Sorting
-			Pagination
-			
+		Advanced UI:
+		
+			- DatePicker
+			- Select and Automplete
+			- DataTable:
+				Basic
+				Sorting
+				Pagination			
 		UnitTest:
 			Jest
 			Enzyme
@@ -75,6 +78,7 @@ FRONTEND:
 			Core (setup, reducers, actions, state)
 			HO Functions
 			Thunk Middleware
+			
 		Context Api:
 		Hooks:
 
