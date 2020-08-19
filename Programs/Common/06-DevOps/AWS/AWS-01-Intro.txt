@@ -40,15 +40,20 @@ https://www.youtube.com/watch?v=ubCNZRNjhyo
 	3 Create a web app as a solution
 
 
-AWS Services@Academind:
-https://www.youtube.com/watch?v=TkT4iFRkaZk
+AWS Services:
 
-	Introduction to services for main AWS service domains
+	AWS Services@Academind:
+	https://www.youtube.com/watch?v=TkT4iFRkaZk
+
 	
-	
-AWS Services A use case: Social Media Architecture
+	AWS Services A use case: Social Media Architecture
 	https://www.youtube.com/watch?v=Z3SYDTMP3ME
 	
 	
-AWS Competitors and services in 2020
-https://www.youtube.com/watch?v=Oa4F2CbKLm0
+	AWS Competitors and services in 2020
+	https://www.youtube.com/watch?v=Oa4F2CbKLm0
+
+
+Full List On Services@AWS
+https://www.youtube.com/playlist?list=PLC1EA73D8914686E5
+
