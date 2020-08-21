@@ -1,0 +1,63 @@
+
+
+Deploy in EBS
+https://www.youtube.com/watch?v=KEH0-rHHNxM
+
+
+
+Elastic Beanstalk:
+https://www.youtube.com/watch?v=KEH0-rHHNxM&t=1550s
+
+1) Choose java
+
+2) Sample application
+
+3) While it is loading go to cloudfront from aws services
+	It is possible to monitor logs about running application
+	
+4) Verify EBS is deployed and running (with sample code)
+
+GOAL: Deploy our code in ABS
+
+	5) Code in Java 11 to Java 8 (supported by AWS)
+
+	6) maven compile plugin 8
+	
+	7) Upload maven built file (jar) in EBS
+	7.1) Upload and deployed
+	
+	8) Check Health (Ok, Degraded)
+	
+	9) Check Logs (Cause)
+	
+GOAL: Security Group setup
+
+	10) RDS and EBS Security Group should be allowed
+	
+	11) EBS> Configuration > Instances > Modify (Grid or Table View)
+	
+	12) In Modify Instances find EC2 Security Groups
+	
+	13) All Security Groups are listed (Default, RDS EBS)
+	13.1) Click on SecurityGroup for the RDS
+	13.2) Allow Inbound from SG (EBS) by port and EBS SG id
+	
+	14) Now EBS Should be running without issues
+	
+GOAL: Application Live
+
+	Check application by env link
+	
+
+GOAL: Deploy Other versions:
+
+	1) Add Delete/Edit feature
+	2) Build jar with maven
+	3) AWS> Upload and Deploy (automatic version)
+	
+	
+GOAL: Deploy older version:
+
+	1) AWS> All Applications > App Env
+	2) Application versions (Table)
+	3) Select version > Actions> Deploy

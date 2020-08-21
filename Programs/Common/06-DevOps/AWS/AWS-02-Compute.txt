@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+
+
+
+
+
+ECS, EKS, Fargate
+https://www.youtube.com/watch?v=HoXEyXIf6_U
+
+LIghtSail:
+	Intro
+	https://www.youtube.com/watch?v=taMlabDBO58
+
+
+
+	Basic Tutorial on Wordpress
+	https://www.youtube.com/watch?v=-rO67fTzVBc
+	
+	Full Tutorial
+	https://www.youtube.com/playlist?list=PLqdM_4-XosY1OrnL8YrmYpmL5xB546pmS
+	
+	
+	Intro and demo on Wordpress on Compute on Edureka:
+	https://www.youtube.com/watch?v=z9bSwsvJFtg
+	
