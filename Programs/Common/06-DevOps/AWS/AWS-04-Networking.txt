@@ -1,0 +1,15 @@
+
+
+
+AWS VPC Basics - Understanding what is VPC and Calculating CIDR for VPC and Subnets
+https://www.youtube.com/watch?v=O3fgul-fJCk&t=11s
+
+Introduction to AWS Networking
+https://www.youtube.com/watch?v=XZbvQWkpJTI
+
+
+AWS VPC Public and Private Subnets
+https://www.youtube.com/watch?v=4T9G9nv0GIk
+
+VPC and subnets @ Max
+https://www.youtube.com/watch?v=bGDMeD6kOz0
