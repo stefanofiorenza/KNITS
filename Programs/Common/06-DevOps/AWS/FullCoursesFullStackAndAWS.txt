@@ -1,0 +1,30 @@
+
+
+
+EC2: Java and MySql
+https://www.youtube.com/playlist?list=PLSg8jHkYTg9FG9v5VEikhYwhT_9SdXHcU
+
+
+AWS and Amplify:
+From git to Deploy
+https://www.youtube.com/watch?v=xT2OhBTjZDY
+
+
+Full Tutorial@AmigosCode
+https://www.youtube.com/watch?v=i-hoSg8iRG0&t=12s
+
+
+
+
+
+	
+SBoot and Docker:
+https://www.youtube.com/watch?v=FlSup_eelYE
+
+	
+CodeStar:
+	https://www.youtube.com/watch?v=jtyk_2_f3d0
+
+
+Full Playlist:
+	https://www.youtube.com/playlist?list=PLsyeobzWxl7rM-MltvxjUa-2LSgAhA11v

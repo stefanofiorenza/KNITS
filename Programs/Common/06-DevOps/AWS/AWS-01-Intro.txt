@@ -1,8 +1,59 @@
 
-Intro on services @Academind:
+
+Theoritical Introduction:
+https://www.youtube.com/watch?v=PW-V-72MJNY
+
+	What You ll learn:
+		1) What is cloud
+		2) What is AWS
+		3) Uses of AWS
+		4) Aws Advantages
+		5) AWS Architecture
+			Regions
+			Availability Zones
+		6) AWS Services and domains
+		
+		-------------------- Until min 19.58
+		7) Create a new Account with Free Tier
+
+
+
+Account Setup and Management:
+https://www.youtube.com/watch?v=gA9pl-A9gDM&list=PLIUhw5xEbE-UIt62T_qb8l-sf3eft5M4F
+
+	1) Account creation
+	2) AWS Console navigation
+	3) Account setup
+		> Configure Region
+		> BIlling dashboard
+		> Admin Limits
+		> Increase limits 
+	4) Free Tier
+		Service usage and limitations
+		
+
+Getting started @Academind:
 https://www.youtube.com/watch?v=ubCNZRNjhyo
 
+	1 Create AWS Free account
+	2 Create and run first service EC2
+	3 Create a web app as a solution
 
 
-Full List On Services
+AWS Services:
+
+	AWS Services@Academind:
+	https://www.youtube.com/watch?v=TkT4iFRkaZk
+
+	
+	AWS Services A use case: Social Media Architecture
+	https://www.youtube.com/watch?v=Z3SYDTMP3ME
+	
+	
+	AWS Competitors and services in 2020
+	https://www.youtube.com/watch?v=Oa4F2CbKLm0
+
+
+Full List On Services@AWS
 https://www.youtube.com/playlist?list=PLC1EA73D8914686E5
+
