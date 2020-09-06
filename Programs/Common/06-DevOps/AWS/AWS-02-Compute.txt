@@ -1,10 +1,16 @@
 
 
+EC2:
+1) EC2: Video 1 @ Aws training
+	Regions and Availability Zone:
+	https://www.youtube.com/watch?v=NNHz0h5OyU4
 
+2) My 1st EC Instance
+	Video: https://www.youtube.com/watch?v=wAsWnP4T7v8
 
-
-
-
+	In this video, we will learn basics of EC2 instance like What is EC2, various components of EC2 instance 
+	like AMI, Instance Type, Security Group, Tags, IPs, Key pairs etc 
+	and then we will launch our first EC2 instance (linux) and connect to it over SSH.
 
 
 

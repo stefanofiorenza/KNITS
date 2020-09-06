@@ -1,0 +1,110 @@
+
+
+AmigoCode
+
+Deploy Fullstack on AWS Elastic Beanstalk:
+Video: https://www.youtube.com/watch?v=KEH0-rHHNxM
+Git: https://github.com/amigoscode/spring-boot-react-fullstack
+
+Overview:
+	- Single Jar with React +SBoot app
+	- Postgres on AWS RDS
+	- AWS Security Group to allow communication between EBS and RDS
+	
+	
+	- RDS and application.yml in App:
+		1) Create a Postgres Db in RDS
+		2) Only Eligible for free tier box
+		
+		Basic
+		3) Name
+		4) Size 
+		5) Autoscaling
+		6) Master credentials
+		
+		Networking:
+		7) Leave as default (Accessible only on VPC) no public access in internet
+		8) Create new VPC Security Group
+		
+		DB Options:
+		9) DB Name
+		10)DB Port
+		
+		Leave default for everything else (Backup and Monitor)
+		
+		11) Create Database
+		12) Wait until Database is available (about 5 mins)
+		
+	APP: (Goal Configuration file to access DB application.yml) 12:18
+	
+		Spring Profiles:
+		- Default profile (see it from logs)
+		- create demo profile
+		- jvm arg spring.profile.active=demo
+		- connect from local to AWS RDS Db > Denied
+		- application-demo.yml is added into the build: updates in pom.xml
+		- Retry running jar locally (new default profile) -> Fails connection to AWS RDS DB
+		
+		
+	EBS: 25:50
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	- EBS:
+		> Choose region
+		> G1) Create DB in RDS and 
+
+Abstract:
+
+
+
+https://www.youtube.com/watch?v=EtDSJRdpJM4
+
+in28 Steps>
+https://www.youtube.com/watch?v=ueKwBqobijE&t=2s
+
+
+FullStack Sboot and React
+https://www.youtube.com/watch?v=SWXuXhZkNQc
+Git>https://github.com/in28minutes/full-stack-with-react-and-spring-boot
+
+
+
+FullStack to Kubernetes>
+https://www.youtube.com/watch?v=6OJgD_RygiM
+
+
+TechPrimers>
+https://www.youtube.com/watch?v=6RrqytT0-I8
+https://github.com/TechPrimers
+
+
+
+
+tEMP to cHECK lATER on EC2
+	https://www.youtube.com/watch?v=1fnPCWBikYQ (iNDIAN aCC)
+	https://www.youtube.com/watch?v=FlSup_eelYE
+	youtube.com/watch?v=KEH0-rHHNxM&t=2s
+	https://www.youtube.com/watch?v=izyqJPl9wW8
+	https://www.youtube.com/watch?v=Ce876F9sox
+	https://www.youtube.com/watch?v=31iIzfEZSGo&list=PLQP5dDPLts67aj6KZCeGOqm_f7JAJDsAD
+
+	EC2@ Max
+	https://www.youtube.com/watch?v=lZMkgOMYYIg
+
+
+	Price Models:
+	https://www.youtube.com/watch?v=1rVG0qfOGDU&t=285s
+
+	Playlist:
+	https://www.youtube.com/watch?v=_V5WYTXlxHc&list=PLczBwDf63icxYwVaik_LSafsxbQ05KhN8&index=2
