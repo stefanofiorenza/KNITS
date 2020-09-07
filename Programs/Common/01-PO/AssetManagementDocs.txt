@@ -1,0 +1,25 @@
+
+
+
+IBM Maximo
+	https://publib.boulder.ibm.com/tividd/td/ITSerDsk/sdug621/en_US/PDF/621_mx_ug.pdf
+
+Oracle Asset Management
+	Main:	https://docs.oracle.com/en/industries/utilities/work-asset-cloud-service/
+	Guide:	https://docs.oracle.com/cd/E26401_01/doc.122/e48789.pdf
+	Guide:	https://docs.oracle.com/cd/F32575_01/files/WAM_Business_User_Guide_v2_2_0_6_2.pdf
+
+
+MS Dynamics 365
+	
+	Main:	https://community.dynamics.com/365/financeandoperations/b/dynamics-365-for-finance-and-operations/posts/microsoft-dynamics-365-asset-management-preview
+	Guide:	https://docs.microsoft.com/en-us/dynamics365/finance/fixed-assets/fixed-assets
+
+
+
+Video on UI:
+https://www.youtube.com/watch?v=SgmMjtpC7DQ&list=PLfM_dnQW24NdCYQgVsb8Yu3GmnDLPqm0w&ab_channel=PaulDipankar
+
+
+
+Requirements Engineering Artifact Modeling (See example)
