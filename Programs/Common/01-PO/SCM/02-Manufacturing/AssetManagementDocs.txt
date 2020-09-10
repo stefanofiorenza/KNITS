@@ -3,6 +3,7 @@ Video on UI:
 
 	Hardware Asset Management:
 	https://www.youtube.com/watch?v=cH4QyG3aR-E
+	https://www.youtube.com/watch?v=ULA4VHSZYAQ&ab_channel=ManageEngine
 
 	A good example of Asset Management Software Demo
 	https://www.youtube.com/watch?v=XP8nhmQh-Q4
@@ -10,7 +11,12 @@ Video on UI:
 	Asset Management 
 	https://www.youtube.com/watch?v=SgmMjtpC7DQ&list=PLfM_dnQW24NdCYQgVsb8Yu3GmnDLPqm0w
 
+Introduction from Blogs:
 
+	https://www.servicenow.com/services/training-and-certification/asset-management.html
+	https://www.rednightconsulting.com/the-quick-guide-to-hardware-asset-management/
+	https://www.lansweeper.com/hardware-inventory-tool/
+	https://freshservice.com/asset-management-software
 
 MANUALS FOR PRODUCTS
 
@@ -29,19 +35,17 @@ MANUALS FOR PRODUCTS
 		Guide:	https://docs.microsoft.com/en-us/dynamics365/finance/fixed-assets/fixed-assets
 
 
-
-
 WORKFLOW:
 
-INTRODUCTION
-	1) Identify main entities and processes
-	2) Map entities relations with a REAM diagram (Requirements Engineering Artifact Modeling, similar to ERD)
-	3) Map main processes for each entity
+	INTRODUCTION
+		1) Identify main entities and processes
+		2) Map entities relations with a REAM diagram (Requirements Engineering Artifact Modeling, similar to ERD)
+		3) Map main processes for each entity
 
-GO IN THE DETAILS
-	
-	5) Add fields in entities
-	6) Discover steps in processes
+	GO IN THE DETAILS
+		
+		5) Add fields in entities
+		6) Discover steps in processes
 
 
  (See example)
