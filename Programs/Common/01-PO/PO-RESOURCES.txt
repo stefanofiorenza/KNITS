@@ -58,17 +58,24 @@ VIDEO:
 
 ADDITIONAL RESOURCES:
 
-	Agile Playlist:
-	https://www.youtube.com/playlist?list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS
+		Agile Playlist:
+		https://www.youtube.com/playlist?list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS
 
-	Essential JIRA @ Packt
-	https://www.youtube.com/playlist?list=PLTgRMOcmRb3Mnnvcyk7TiBmc4eXxvv_pG (Essential)
+		Essential JIRA @ Packt
+		https://www.youtube.com/playlist?list=PLTgRMOcmRb3Mnnvcyk7TiBmc4eXxvv_pG (Essential)
 
-	Jira Playlist with full course on basics: (Few minutes Each)
-	https://www.youtube.com/watch?v=DaOw4xXAnUo&list=PLAucYnTm2adzZtkgw4-zRXN-1NNjmZWAu
-	
+		Jira Playlist with full course on basics: (Few minutes Each)
+		https://www.youtube.com/watch?v=DaOw4xXAnUo&list=PLAucYnTm2adzZtkgw4-zRXN-1NNjmZWAu
+		
+		Scrum Product Owner Playlist:
+		https://www.youtube.com/playlist?list=PL9sBic1RK7xDAJq79QHbvyO1k1JFGfUg7
+			
+		Product Owner Roles and Responsibilities | Who is a Product Owner? | Edureka
+		https://www.youtube.com/watch?v=jffzx7So8N8
+		
+		Project Manager:
+		https://www.youtube.com/watch?v=2Uiv9BRLmL0&list=PLsikuZM13-0y9-3309CW4K64cXANjHVms&index=2&t=0s
 
-
-
-
+		Talks: What makes a good product Owner
+		https://www.youtube.com/playlist?list=PLmHCIApFZbZOdTxz_-7pWNwMIBhF10bX1
 
