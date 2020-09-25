@@ -4,7 +4,8 @@ Workflow:
 
 Goals: 
 	
-	3 version of the template:
+	
+	3 Branches of the template:
 		1) Original	
 		2) Showcase 
 		3) Minimal

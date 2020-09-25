@@ -1,0 +1,8 @@
+
+
+
+Examples:
+https://www.mwpvl.com/html/warehouse_heat_map.html
+https://www.warehouse-science.com/apps/heatmap/index.html
+https://warehouseblueprint.com/abc-analysis-and-heat-map/
+https://blogs.sap.com/2020/04/16/warehouse-insights-the-planning-and-optimization-application-for-modern-warehouses/

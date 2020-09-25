@@ -8,7 +8,7 @@ Video on UI:
 	A good example of Asset Management Software Demo
 	https://www.youtube.com/watch?v=XP8nhmQh-Q4
 
-	Asset Management 
+	Playlist on Asset Management 
 	https://www.youtube.com/watch?v=SgmMjtpC7DQ&list=PLfM_dnQW24NdCYQgVsb8Yu3GmnDLPqm0w
 
 Introduction from Blogs:
@@ -33,19 +33,3 @@ MANUALS FOR PRODUCTS
 		
 		Main:	https://community.dynamics.com/365/financeandoperations/b/dynamics-365-for-finance-and-operations/posts/microsoft-dynamics-365-asset-management-preview
 		Guide:	https://docs.microsoft.com/en-us/dynamics365/finance/fixed-assets/fixed-assets
-
-
-WORKFLOW:
-
-	INTRODUCTION
-		1) Identify main entities and processes
-		2) Map entities relations with a REAM diagram (Requirements Engineering Artifact Modeling, similar to ERD)
-		3) Map main processes for each entity
-
-	GO IN THE DETAILS
-		
-		5) Add fields in entities
-		6) Discover steps in processes
-
-
- (See example)

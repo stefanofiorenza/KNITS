@@ -1,0 +1,20 @@
+
+
+
+
+
+
+Some examples
+	https://www.easycargo3d.com/
+	https://www.pier2pier.com/loadcalc/cargo
+	http://www.packer3d.com/program/features/overview
+	https://www.oracle.com/applications/supply-chain-management/solutions/logistics/transportation-management.html
+
+
+
+Resources:
+
+	https://medium.com/better-programming/react-three-fiber-build-3d-for-the-web-with-react-and-webgl-easily-c0df8801292
+	https://medium.com/cortico/3d-data-visualization-with-react-and-three-js-7272fb6de432
+	https://morioh.com/p/c0abf43e5d59
+	https://hackernoon.com/react-webgl-different-ways-of-creating-3d-apps-with-react-3af844f61257
