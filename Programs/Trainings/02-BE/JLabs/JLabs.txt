@@ -1,0 +1,45 @@
+
+
+Visual Stories:
+	- Villager mining resource: (food, wood, stone, gold)
+	- Village building building
+	- Villager hunt for animals (animal fights back)
+
+Orders:
+	Vid: 1
+	Action: build | mine
+	Choords: X:100 Y:300
+
+
+Image resources: (slides)
+
+	System design (reusable)
+	- App in cloud
+	- N Clients use app
+	- Network protocol is done
+	- Client sw is done by other team
+	- We receive Messages containing Data
+	- We Process them in a Service
+	- Service Might use components
+	- State in memory
+	
+	Problem: 
+	1) Model
+	2) service impl:
+	3) Test From Main:
+		Many messages from static method
+		1 Service instance
+		
+	App:
+	- variables
+	- functions
+	
+	- files.functions
+	- 
+	
+	
+	Service: 	Product line assembler
+	Component: 	Specialized robot:
+	Data:		Materials in flow
+	
+	
