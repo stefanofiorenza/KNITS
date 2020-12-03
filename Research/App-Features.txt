@@ -1,0 +1,47 @@
+
+
+Explore 3D .js Visualizations
+
+
+	Visual Examples:
+
+		Truck loader simulation:
+		https://xserver2-dashboard.cloud.ptvgroup.com/dashboard/Content/Showcases/LoadingOptimization/InteractiveVisualization/index.htm
+		
+		Container visualization:
+		http://thesharpcoder.com/blog/container-load-plan--showing-3d-steps-with-animations--three-js-
+
+
+	Technology:
+		
+		WebGl
+		https://get.webgl.org/
+		https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+		
+		Three.js:
+		https://threejs.org/
+		
+		Babylon.js
+		https://www.babylonjs.com/
+		
+		Animation: Tween.js
+		https://github.com/tweenjs/tween.js/
+		
+		xeogl
+		https://xeogl.org/docs/
+		https://xeogl.org/examples/#camera_flight
+
+- Truck Loading
+	https://www.youtube.com/watch?v=tQPdBg9_k-4&ab_channel=ChadyKarlitch
+	https://github.com/chadiik/freight-packer
+	
+- Wareshouse Visualization 3D
+    http://www.mydatavisualizer.com/demo/warehouse/
+	https://www.warehouse-science.com/apps/heatmap/index.html
+	https://isd-soft.com/nl/tech_blog/developing-real-project-just-students-experience/
+
+Other on Logistics	
+	https://locanis.com/our-products/
+
+
+	

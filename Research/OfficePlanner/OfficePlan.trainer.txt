@@ -1,0 +1,16 @@
+
+
+
+
+Zoom into office plans
+https://api.mazemap.com/js/v2.0.40/docs/examples/iframe-fiddles/mazemarker-options/app.html
+
+https://www.npmjs.com/package/office-map/v/1.0.34
+https://github.com/thiagoferrax/office-map
+
+
+Tech:
+
+
+
+Planner Libs
