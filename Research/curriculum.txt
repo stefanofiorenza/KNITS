@@ -1,9 +1,0 @@
-
-
-Frontend:
-https://nextjs.org/learn/basics/create-nextjs-app
-
-App to Docker
-
-App to kubernetes
-https://www.callicoder.com/deploy-spring-mysql-react-nginx-kubernetes-persistent-volume-secret/
