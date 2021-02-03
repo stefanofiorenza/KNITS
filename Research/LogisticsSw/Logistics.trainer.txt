@@ -1,0 +1,15 @@
+
+
+
+SCM@Oracle:
+	https://docs.oracle.com/en/cloud/saas/supply-chain-management/20d/books.html
+
+	Logistics
+		https://docs.oracle.com/en/cloud/saas/transportation/20c/books.html
+		https://docs.oracle.com/en/cloud/saas/supply-chain-management/20d/books.html
+	
+	Warehouse
+		https://docs.oracle.com/en/cloud/saas/warehouse-management/20d/owmsu/oracle-warehouse-management-cloud-user-guide.pdf
+			
+Production Plant management:
+	https://softwareconnect.com/bill-of-materials/
