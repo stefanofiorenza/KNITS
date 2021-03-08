@@ -33,15 +33,29 @@ SW Examples:
 	https://www.g2.com/products/losant/competitors/alternatives
 	
 	
+	Search Key words
+	Manufacturing Dashboards
+
+	Dashboards
+	https://tulip.co/platform/
+
 Docs:
 
 	https://thingsboard.io/docs/guides/
 	https://docs.oracle.com/en/cloud/saas/index.html
 
 	IOT@Oracle
+	
+		Asset Management
 		https://docs.oracle.com/en/cloud/saas/iot-asset-cloud/index.html
+		
+		
+		Fleet Management
 		https://docs.oracle.com/en/cloud/saas/iot-fleet-cloud/index.html
+		
+		IOT Production@
 		https://docs.oracle.com/en/cloud/saas/iot-production-cloud/index.html
+		https://www.youtube.com/watch?v=csZnRHQecss&ab_channel=OracleQuickTours
 
 Tutorial:
 	https://docs.oracle.com/en/cloud/saas/iot-production-cloud/tutorial-configuring-production-monitoring/
