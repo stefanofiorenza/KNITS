@@ -1,38 +1,5 @@
 
 
-
-Sw:
-
-
-
-
-Docs:
-
-	MS dynamics365:
-	https://docs.microsoft.com/en-us/dynamics365/business-central/warehouse-manage-warehouse
-
-	Oracle:
-
-
-	IBM:
-	https://www.ibm.com/support/knowledgecenter/SS73R8_9.4.0/wms_maps/wms94_welcome.html
-	ftp://public.dhe.ibm.com/software/commerce/doc/ssfs/85/WMS_PCA_Implementation_Guide.pdf
-	ftp://ftp.boulder.ibm.com/software/commerce/doc/ssfs/91/WMS_PCA_Overview_Guide.pdf
-	ftp://ftp.www.ibm.com/software/commerce/doc/ssfs/91/WMS_User_Guide.pdf
-
-	Infor
-	https://drive.google.com/drive/u/0/folders/1Pu6pHrtsjhaMr5hZSY4KLucKzb5155Cd
-
-
-	Marello:
-	https://www.marello.com/quick-guide/
-	https://www.marello.com/full-feature-list/
-	https://knowledgebase.marello.com/knowledge-base/purchase-orders/
-	https://www.marello.com/multi-warehouse-management/?gclid=CjwKCAjwkdL6BRAREiwA-kiczN1caDCJkejtON17JmbVq8loKVbU7dop0JKvd5Yx7vy18mLDIxDh2RoClrIQAvD_BwE
-
-
-
-
 Video:
 
 	Warehouse Operations (Workflows) Fast Introduction
@@ -47,19 +14,54 @@ Video:
 		https://www.youtube.com/watch?v=0E-Wy1fOdOw&ab_channel=LogisticsReply
 
 
-MS Dynamics 365: (operations and software)
-	https://www.youtube.com/watch?v=Xcocz69iMF0&list=PLKINeAh6J4zZHzE26Awj3wzL0luSw0sjN&ab_channel=SwiftDynamics
+	MS Dynamics 365: (operations and software)
+		https://www.youtube.com/watch?v=Xcocz69iMF0&list=PLKINeAh6J4zZHzE26Awj3wzL0luSw0sjN&ab_channel=SwiftDynamics
 
 
-Supply Chain WMS:
-	https://www.youtube.com/playlist?list=PLI3QncrPtQTVtVfO2ilc9-GifLcOn69vP
+	Supply Chain WMS:
+		https://www.youtube.com/playlist?list=PLI3QncrPtQTVtVfO2ilc9-GifLcOn69vP
+
+
+	Warehouse Management Playlist@iNECTA University
+		https://www.youtube.com/playlist?list=PLJDdNuGpFiaqMeXXlCxsRo_-uf7-1kLiH
+		
+		
+	Paperless
+	https://www.youtube.com/watch?v=9WIeSOYz5WI&ab_channel=ColumbusUS-formerlyInterDynBMI
 
 
 
+Docs:
 
-Warehouse Management Playlist@iNECTA University
-	https://www.youtube.com/playlist?list=PLJDdNuGpFiaqMeXXlCxsRo_-uf7-1kLiH
+	MS dynamics365:
+		https://docs.microsoft.com/en-us/dynamics365/business-central/warehouse-manage-warehouse
+
+	Oracle:
+		https://docs.oracle.com/en/cloud/saas/supply-chain-management/21a/books.html
+		
+
+	IBM:
+		https://www.ibm.com/support/knowledgecenter/SS73R8_9.4.0/wms_maps/wms94_welcome.html
 	
-	
-Paperless
-https://www.youtube.com/watch?v=9WIeSOYz5WI&ab_channel=ColumbusUS-formerlyInterDynBMI
+		https://www.ibm.com/support/knowledgecenter/SS73R8_9.4.0/wms_maps/wms94_welcome.html
+		https://www.ibm.com/support/knowledgecenter/SS73R8_9.4.0/com.ibm.help.wms.concepts.doc/c_SterlingWarehouseManagementSystemOverview.html
+		
+		
+		Try those from mozilla:
+		ftp://public.dhe.ibm.com/software/commerce/doc/ssfs/85/WMS_PCA_Implementation_Guide.pdf
+		ftp://ftp.boulder.ibm.com/software/commerce/doc/ssfs/91/WMS_PCA_Overview_Guide.pdf
+		ftp://ftp.www.ibm.com/software/commerce/doc/ssfs/91/WMS_User_Guide.pdf
+
+	Infor
+		https://drive.google.com/drive/u/0/folders/1Pu6pHrtsjhaMr5hZSY4KLucKzb5155Cd
+
+
+	Marello:
+		https://www.marello.com/quick-guide/
+		https://www.marello.com/full-feature-list/
+		https://knowledgebase.marello.com/knowledge-base/purchase-orders/
+		https://www.marello.com/multi-warehouse-management/?gclid=CjwKCAjwkdL6BRAREiwA-kiczN1caDCJkejtON17JmbVq8loKVbU7dop0JKvd5Yx7vy18mLDIxDh2RoClrIQAvD_BwE
+
+
+
+
