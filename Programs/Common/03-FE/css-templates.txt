@@ -14,29 +14,47 @@ GOAL:
 
 
 Some website where to find free (or fremium) templates:
-	https://templatemag.com/blog/admin-interface-templates/
-	https://freshdesignweb.com/free-bootstrap-admin-templates/
-	https://www.creative-tim.com/templates/free
-	https://dashboardpack.com/bootstrap-templates/free-themes/?v=a57b8491d1d8
-	http://themesbox.in/item/category/freebies/
-	https://flatlogic.com/templates/free
-	https://www.wrappixel.com/templates/category/free-templates/
+
+		https://templatemag.com/blog/admin-interface-templates/
+		https://freshdesignweb.com/free-bootstrap-admin-templates/
+		https://www.creative-tim.com/templates/free
+		https://dashboardpack.com/bootstrap-templates/free-themes/?v=a57b8491d1d8
+		http://themesbox.in/item/category/freebies/
+		https://flatlogic.com/templates/free
+		https://www.wrappixel.com/templates/category/free-templates/
 
 
 
-Some easy templates forked from my github (to cleanup):
+EXAMPLES:
 
-	https://github.com/stefanofiorenza/argon-dashboard
-	https://github.com/stefanofiorenza/bootflat-admin
-	https://github.com/stefanofiorenza/shards-dashboard
-	https://github.com/stefanofiorenza/CoolAdmin
+	Starter:
+		https://github.com/stefanofiorenza/argon-dashboard
+		https://github.com/stefanofiorenza/CoolAdmin
+		https://github.com/stefanofiorenza/material-kit
+		https://github.com/creativetimofficial/black-dashboard
+		https://github.com/stefanofiorenza/material-dashboard
+		
+		
+	Minimized:
+		https://github.com/stefanofiorenza/argon-dashboard/tree/minimize
+		https://github.com/stefanofiorenza/CoolAdmin/tree/minimized
+		https://github.com/stefanofiorenza/material-kit/tree/minimize
+		https://github.com/stefanofiorenza/black-dashboard/tree/Minimized
+		https://github.com/stefanofiorenza/material-dashboard/tree/minimized
 
-More Difficult:
-	https://github.com/stefanofiorenza/sing-app
-	https://github.com/stefanofiorenza/gentelella
-	https://github.com/stefanofiorenza/Adminator-admin-dashboard
-	https://github.com/stefanofiorenza/sleek-dashboard
-	https://github.com/stisla/stisla
+
+SOME OTHER EASIER TEMPLATES TO MINIMIZE:
+
+		https://github.com/stefanofiorenza/shards-dashboard
+	
+
+MORE DIFFICULT:
+
+		https://github.com/stefanofiorenza/sing-app
+		https://github.com/stefanofiorenza/gentelella
+		https://github.com/stefanofiorenza/Adminator-admin-dashboard
+		https://github.com/stefanofiorenza/sleek-dashboard
+		https://github.com/stisla/stisla
 
 
 

@@ -1,0 +1,68 @@
+
+ GOAL:
+ We want to access (one of the Demo Pages) from localhost:3000
+  
+	1) Scaffolding:
+	
+		Create following dirs:
+		
+		/src/components/layout
+		/src/components/pages
+		
+	2) move MainLayout.jsx to /src/components/layout
+	
+	3) Update import in App.jsx accordingly: (Visual studio should ask about it)
+	
+		import MainLayout from './components/MainLayout.jsx';
+		
+	4) test again with Server that everything works:
+		yarn start
+		
+	
+	5) Create Wireframe:
+	
+		Identify main Section of body from DemoPage.html (use Visual Studio to check div start end)
+		Put a start -- end comment {/* Start Component */} {/* End Component */}
+		
+	
+	6) Create a new File for each Component (TopNavBar, LeftMenuBar, Content)
+
+	7) Small Iteractions:
+	
+		7.1) Copy Block of code of each identified component (One by One) in MainLayout 
+		7.2) Apply following corrections (Html to React):
+					
+				7.2.1) Find/Replace all class should become className
+				
+				7.2..2) Find/Replace comments (if you wish to keep them at all)
+					F: <!--
+					R: {/* <!--
+					
+					F: -->
+					R:  --> */}
+				
+				7.2.3) Close empty tags <br> should <br/> and so on:
+				Best candidate to search:
+					F: <br>
+					F: <hr>
+					F: <input>
+				
+				7.2.4) All style should be replace according to react:
+				https://reactjs.org/docs/dom-elements.html#style
+				
+				Replace style with 
+				{{ height: '10' }}
+				
+				
+		7.3) Restart server at the end of every copy-oaste-reactify session
+		
+	8) When whole page is accessible and working from localhost:3000 is time to break page into components/MainLayout
+	
+		8.1) Copy relevant section of TopNavBar into TopNavBar.jsx function return ()
+		8.2) Import TopNavBar in MainLayout
+		8.3) Replace html code in MainLayout function with with TopNavBar (component tag)
+	
+	9) Do same as (8) for all sections identified in (5) Wireframe
+	
+	10) Apply props according to 
+	https://reactjs.org/docs/components-and-props.html
