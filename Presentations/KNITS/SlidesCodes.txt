@@ -1,7 +1,0 @@
-
-Blue Scuro 	67, 90,114			#435A72
-Blue Chiaro	1, 175, 226			#01AFE2
-
-
-Images tags:
-
