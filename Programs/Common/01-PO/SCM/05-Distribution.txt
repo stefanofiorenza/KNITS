@@ -1,0 +1,49 @@
+Retail Management:
+
+
+VIDEO:
+
+	Introduction on Reatail Management@TutorialsPoint:
+		https://www.youtube.com/playlist?list=PLWPirh4EWFpEv7x2CU-9jcXlIvBuSx7oF
+
+	BrightPearl Channel
+		https://www.youtube.com/c/BrightpearlHQ/playlists
+
+	Odoo Retail Management
+		https://www.youtube.com/watch?v=3gYOJV6bDbQ&ab_channel=Odoo
+		https://www.youtube.com/watch?v=sJPidssZH4Y&ab_channel=Odoo
+		
+		Other on POS:
+		https://www.youtube.com/c/Odooapps/search?query=pos
+	
+	Channel for Retail Management topics
+		https://www.youtube.com/channel/UCEhAoqJriqFAc9ohWRYRL-w
+
+
+BLOGS:
+
+		Introduction on Retail Management
+	
+		@TutorialsPoint
+		https://www.tutorialspoint.com/retail_management/index.htm
+		
+		@Managementstudyguide
+		https://managementstudyguide.com/what-is-retail.htm
+
+
+USER MANUALS:
+
+	Odoo Point Of Sale:
+		https://www.odoo.com/documentation/user/14.0/point_of_sale.html
+		
+	BrightPearl: Help Center:
+		https://help.brightpearl.com/hc/en-us/categories/201519743-Getting-started
+
+	MYOB Retail Manager
+		https://www.myob.com/content/dam/myob-redesign/au/docs/rm_userguide.pdf
+	
+	Lightspeed Retail POS
+		https://retail-support.lightspeedhq.com/hc/en-us/articles/360034468493-Getting-started-with-Retail-POS
+
+	MS Dymamics 365:
+		https://docs.microsoft.com/en-us/dynamics365/opbuildpdf/commerce/toc.pdf?branch=live

@@ -10,6 +10,26 @@ Hardware Investigation:
 
 
 
+Theory IOT:
+
+	IOT Tutorial
+	https://data-flair.training/blogs/iot-tutorial/
+	https://www.guru99.com/iot-tutorial.html#3
+	http://www.steves-internet-guide.com/internet-of-things/
+	https://www.tutorialspoint.com/internet_of_things/index.htm
+	https://www.javatpoint.com/iot-internet-of-things
+
+	Architecture:
+	https://www.iotcentral.io/blog/the-iot-architecture-at-the-edge
+	
+	https://www.lanner-america.com/blog/what-is-an-iot-gateway/
+	
+	LORAWAN
+	https://aws.amazon.com/blogs/iot/introducing-aws-iot-core-for-lorawan/
+	
+	https://www.iotcentral.io/blog/the-iot-architecture-at-the-edge
+	
+
 SW Examples:
 
 	
@@ -25,7 +45,8 @@ SW Examples:
 	
 	IOT Platform:
 	https://docs.losant.com/getting-started/what-is-losant/
-	
+	https://cayenne.mydevices.com/cayenne/dashboard/start
+	https://thingsboard.io/pricing/
 	
 	IOT Platforms to check	
 	https://www.producthunt.com/alternatives/losant-iot-platform
@@ -38,30 +59,46 @@ SW Examples:
 
 	Dashboards
 	https://tulip.co/platform/
+	https://tulip.co/devices/
+	https://tulip.co/platform/machine-monitoring/
 
 Docs:
 
+
+Platform:
+
+	https://cayenne.mydevices.com/cayenne/dashboard/first-visit/add
 	https://thingsboard.io/docs/guides/
 	https://docs.oracle.com/en/cloud/saas/index.html
 
-	IOT@Oracle
+
+
+
+	IOT@Oracle Manuals
 	
 		Asset Management
-		https://docs.oracle.com/en/cloud/saas/iot-asset-cloud/index.html
+		https://docs.oracle.com/en/cloud/saas/iot-asset-cloud/iotaa/index.html
 		
 		
 		Fleet Management
 		https://docs.oracle.com/en/cloud/saas/iot-fleet-cloud/index.html
 		
+		
 		IOT Production@
-		https://docs.oracle.com/en/cloud/saas/iot-production-cloud/index.html
+		https://docs.oracle.com/en/cloud/saas/iot-production-cloud/iotpp/index.html
+		
 		https://www.youtube.com/watch?v=csZnRHQecss&ab_channel=OracleQuickTours
+		https://aws.amazon.com/iot/solutions/industrial-iot/
+		
+		
 
 Tutorial:
 	https://docs.oracle.com/en/cloud/saas/iot-production-cloud/tutorial-configuring-production-monitoring/
 
 Blogs:
 https://dzone.com/iot-developer-tutorials-tools-news-reviews
+
+
 
 
 Use Case:
