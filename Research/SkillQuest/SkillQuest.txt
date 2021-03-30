@@ -1,0 +1,68 @@
+SkillQuest
+
+Mind Maps:
+
+	I would like to visualize IT skills as mind map.
+	Something like the examples you find here:
+	https://github.com/kamranahmedse/developer-roadmap
+
+	Instead of plain boxes, steps in the path with possible direction could have a better design.
+	Something like this:
+	https://www.youtube.com/watch?v=rWkR0ldRsig&ab_channel=KodeKloud
+
+
+Hierarchy:
+
+	Starting step is an IT specialization (for instance Frontend Developer).
+	
+	From that many paths related to different skills are created.
+
+	Path is made of Topic in higher level (for example HTML)
+
+	To complete a topic you should mark all its steps as done.
+
+	Each topic has some children steps, what could be placed in sequence, or parallel.
+	
+	Every learning step should have some learning resource attached (article, video, image)
+	
+	Every learning step should have some rates that measure 
+	(how much it contributes to parent topic in %, priority, complexity)
+
+	Every Learning resource could be tagged and stars-rated by users that used that.
+
+Users:
+
+	We can provide those types of users (Admin, Learner, Scout, Trainer)
+
+	Admin can do everything.
+	
+	Trainer can 
+		add topics 
+		connect topic (sequence, or parallel).
+		add learning resources to a topic.
+		rate topics
+
+	Scout can 
+		add learning resources to topic.
+		Rate learning resource
+		Tag learning resource
+
+	Learner can
+		Visualize Topic
+		Visualize Learning Resources (titles)
+		Consume learning resources (mark them as completed)
+
+Features:
+This is mostly open topic to merge our ideas.
+As basic features I would consider:
+
+	1)	User can visualize steps he completed (they go from default color to green for example)
+	2)	When all steps of a Topic are completed, Topic also become green.
+	3)	There can be some code assessment to validate acquired knowledge from external code platforms like:
+	4)  Every learning resource reviewed will give some points.
+	5)  More points could be given when a whole Topic is completed
+	6)  Even more points are given when you complete a coding tasks (according to complexity)
+	7) 	it is possible to visualize report on weekly, monthly and yearly points.
+
+
+		
