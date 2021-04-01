@@ -43,7 +43,7 @@ Docs:
 	IBM:
 		https://www.ibm.com/support/knowledgecenter/SS73R8_9.4.0/wms_maps/wms94_welcome.html
 	
-		https://www.ibm.com/support/knowledgecenter/SS73R8_9.4.0/wms_maps/wms94_welcome.html
+
 		https://www.ibm.com/support/knowledgecenter/SS73R8_9.4.0/com.ibm.help.wms.concepts.doc/c_SterlingWarehouseManagementSystemOverview.html
 		
 		
@@ -56,12 +56,6 @@ Docs:
 		https://drive.google.com/drive/u/0/folders/1Pu6pHrtsjhaMr5hZSY4KLucKzb5155Cd
 
 
-	Marello:
-		https://www.marello.com/quick-guide/
-		https://www.marello.com/full-feature-list/
-		https://knowledgebase.marello.com/knowledge-base/purchase-orders/
-		https://www.marello.com/multi-warehouse-management/?gclid=CjwKCAjwkdL6BRAREiwA-kiczN1caDCJkejtON17JmbVq8loKVbU7dop0JKvd5Yx7vy18mLDIxDh2RoClrIQAvD_BwE
-
-
+	
 
 

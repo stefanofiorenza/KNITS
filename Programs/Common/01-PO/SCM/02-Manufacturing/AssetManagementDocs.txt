@@ -13,10 +13,8 @@ Video on UI:
 
 Introduction from Blogs:
 
-	https://www.servicenow.com/services/training-and-certification/asset-management.html
 	https://www.rednightconsulting.com/the-quick-guide-to-hardware-asset-management/
-	https://www.lansweeper.com/hardware-inventory-tool/
-	https://freshservice.com/asset-management-software
+	
 
 MANUALS FOR PRODUCTS
 
