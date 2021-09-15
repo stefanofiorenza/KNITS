@@ -1,0 +1,22 @@
+
+
+Tutorials:
+https://www.javatpoint.com/android-tutorial
+
+
+
+Material UI
+https://material.io/develop/android/docs/getting-started
+
+Templates:
+
+Pro Versions
+https://www.codester.com/categories/210/android-application-ui-kits?sort_by=cost&order=asc
+https://www.codester.com/items/14296/tasking-ui-kit
+https://www.codester.com/items/21653/office-hr-app-react-native-app-template
+
+Fremium
+https://materialuiux.com/
+
+
+https://www.codester.com/items/22295/vinni-android-studio-ui-kit

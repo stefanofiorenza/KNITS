@@ -1,0 +1,3 @@
+stackshare
+https://stackshare.io/posts/how-github-spotify-and-ebay-use-adrs-and-tech-radars-for-technology-decisions
+https://github.com/joelparkerhenderson/architecture-decision-record

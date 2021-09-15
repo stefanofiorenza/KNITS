@@ -1,0 +1,67 @@
+
+
+References:
+
+Autoconfiguration Classes:
+https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-auto-configuration-classes.html
+
+Official
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html
+https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-profiles
+
+
+Guides:
+
+
+	
+	
+
+Tutorials:
+
+	Spring Security
+	https://www.baeldung.com/security-spring
+	https://www.baeldung.com/category/spring/spring-security/
+
+	Spring Boot + Security:
+	https://www.javainuse.com/spring/sprboot_sec
+	
+	Websystique
+	http://websystique.com/spring-security-tutorial/
+	
+	
+	
+By Topic:
+
+
+	Authentications: (jwt OAuth2)
+	https://springbootdev.com/tag/spring-security/
+
+	JWT
+	https://dzone.com/articles/spring-boot-security-json-web-tokenjwt-hello-world
+	https://www.toptal.com/spring/spring-boot-oauth2-jwt-rest-protection
+
+
+	Deny Access to all Controller methods by default
+	https://www.baeldung.com/spring-deny-access
+	
+	Security Expressions (uri, inPage, MethodLevel)
+	https://www.baeldung.com/spring-security-expressions-basic
+		
+	Programmatic access to user details
+	https://www.baeldung.com/get-user-in-spring-security
+	
+	
+Cv:
+
+https://www.baeldung.com/learn-spring-security-course
+
+
+
+to check: (4 slides)
+https://docs.spring.io/spring-security/site/docs/current/reference/html5/#samples
+https://www.techtalks.lk/blog/2018/10/spring-security-authentication
+https://spring.io/guides/topicals/spring-security-architecture
+https://www.journaldev.com/8669/spring-4-security#spring-4-security-levels
+
+https://www.javainuse.com/spring/sprboot_sec
+

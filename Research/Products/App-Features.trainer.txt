@@ -1,0 +1,49 @@
+
+
+
+Features:
+
+
+- Boards:
+	https://github.com/stefanofiorenza/retro-board
+	https://github.com/stefanofiorenza/retro-board-1
+	https://codesandbox.io/s/q706r0o5p6
+
+
+- Vertical Accordions 
+  tutorial(Title, Contents)
+	https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE_ID:6479,510
+  
+- Horizontal:
+	Book pages:
+	https://www.youtube.com/watch?v=KYzlpRvWZ6c&t=1351
+	
+	Tech:
+	https://developer.aliyun.com/mirror/npm/package/react-card-scroll
+
+
+https://reactjsexample.com/tag/timeline/#:~:text=A%20react%20timeline%20gantt%20component,to%20be%20reactive%20an%20efficient.
+
+
+https://github.com/dabeng/react-orgchart
+
+Time Lines
+https://freefrontend.com/react-js-timelines/
+https://www.npmjs.com/package/react-vertical-timeline-component
+
+
+https://reactflow.dev/#:~:text=React%20Flow%20enables%20you%20to,%2D%2Dsave%20react%2Dflow%2Drenderer
+
+Tree view:
+
+https://fperucic.github.io/treant-js/
+
+
+https://codesandbox.io/s/react-orgchart-demo-o3nf6
+
+Usable in ..
+
+	Bill Of Materials
+	
+	
+	Career Path

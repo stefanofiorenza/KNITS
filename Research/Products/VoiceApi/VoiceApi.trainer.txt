@@ -1,0 +1,8 @@
+
+
+Sound Api Js
+https://www.toptal.com/web/web-audio-api-tutorial
+
+Spech to Text
+https://blog.api.rakuten.net/top-10-best-speech-recognition-apis-google-speech-ibm-watson-speechapi-and-others/
+https://nordicapis.com/5-best-speech-to-text-apis/

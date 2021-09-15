@@ -1,0 +1,63 @@
+entity Building {
+	streetAddress String,
+	postalCode String,
+	city String,
+	country String,
+    lng Double,
+    lat Double
+}
+
+entity Floor {
+	number Integer,
+    plan Blob
+}
+
+entity Room {
+	shape String,
+    coordinates String
+}
+
+
+entity Workstation {
+	shape String,
+    coordinates String
+}
+
+entity Employee {
+	
+    username String,
+    companyCode String   
+	firstName String,
+	lastName String,
+	email String,
+	phoneNumber String,
+	hireDate Instant
+}
+
+entity Reservation {
+	start Instant,
+    end Instant  
+}
+
+
+// defining multiple OneToMany relationships with comments
+/*
+relationship OneToMany {
+	Building to Floor,
+	Floor to Room,
+    Room to Workstation,
+    Employee to Reservation,
+    Workstation to Reservation    
+}*/
+
+
+// Set pagination options
+paginate Employee with pagination
+
+// Use Data Transfer Objects (DTO)
+ dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl 
+
+

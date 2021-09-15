@@ -1,0 +1,165 @@
+
+Hardware Investigation:
+
+
+	Pixieboard
+	https://medium.com/pixieboard/an-iot-hardware-platform-for-pro-users-1feb14d3c9d4
+
+	Supplier (Many products, with specifications)
+	https://www.eelinktech.com/4g-gps-tracker/
+
+
+
+Theory IOT:
+
+	Architecture Article:
+		https://www.iotcentral.io/blog/the-iot-architecture-at-the-edge
+
+	IOT Guides:	
+	
+		Short
+		https://www.javatpoint.com/iot-platform
+		
+		Enciclopedia:
+		https://developer.ibm.com/technologies/iot/gettingstarted/
+		https://docs.aws.amazon.com/iot/latest/developerguide/iot-gs.html
+	
+	
+Components:
+
+	https://www.lanner-america.com/blog/what-is-an-iot-gateway/
+	
+
+Reti:
+
+	LORAWAN
+	https://aws.amazon.com/blogs/iot/introducing-aws-iot-core-for-lorawan/
+	
+
+
+Platforms:
+
+	https://cayenne.mydevices.com/cayenne/dashboard/first-visit/add
+	https://cumulocity.com/guides/concepts/introduction/#device-management
+	https://thingsboard.io/docs/guides/
+	https://docs.losant.com/getting-started/what-is-losant/
+
+
+Devices 
+
+	Catalog Search Engine:
+	https://devicepartnerportal.softwareag.com/devices
+	https://www.eelinktech.com/
+
+	Partner Devices:	
+	https://devices.amazonaws.com/
+	https://devicecatalog.azure.com/
+	https://developer.bosch-iot-suite.com/iot-devices/
+	
+
+	
+	
+	
+	
+
+CORE PLATFORM:
+		
+	Documentation:
+	https://cumulocity.com/guides/users-guide/getting-started/
+	https://docs.aws.amazon.com/iot/latest/developerguide/iot-gs.html
+	https://www.ibm.com/cloud/watson-iot-platform
+	
+	
+SW Examples:
+
+	Fleet Management:
+	https://thingsboard.io/fleet-tracking/
+
+	Tracking Assets with iot (ENTER WITH DEMO)
+	http://www.sky200.com/
+	
+	Track and Trace @ Oracle:
+	
+	
+
+	
+
+	
+	Search Key words
+	Manufacturing Dashboards
+
+	Dashboards
+	https://tulip.co/platform/
+	https://tulip.co/devices/
+	https://tulip.co/platform/machine-monitoring/
+
+Docs:
+
+
+	
+
+	IOT@Oracle Manuals
+	
+		Device Management:
+		https://devicepartnerportal.softwareag.com/devices
+		
+		SDK
+		https://cumulocity.com/guides/device-sdk/introduction/
+	
+	
+		Asset Management
+		https://docs.oracle.com/en/cloud/saas/iot-asset-cloud/iotaa/index.html
+		
+		
+		Fleet Management
+		https://docs.oracle.com/en/cloud/saas/iot-fleet-cloud/index.html
+		
+		
+		IOT Production@
+		https://docs.oracle.com/en/cloud/saas/iot-production-cloud/iotpp/index.html
+		
+		https://www.youtube.com/watch?v=csZnRHQecss&ab_channel=OracleQuickTours
+		
+		IOT Asset management
+		Video:	https://www.youtube.com/watch?v=7Sj3Vz-62uE&ab_channel=OracleLearning
+		Video: https://www.youtube.com/watch?v=uMQ3ooE-G4k&list=PL9CMUqE2JgZcwjBdn1iSDbYJxDMu-diO6&index=5&ab_channel=OracleInternetofThings
+		
+		Fleet management:		
+		Video: https://www.youtube.com/watch?v=E4H-fgE-yD0&ab_channel=OracleSupplyChain
+		Video: https://www.youtube.com/watch?v=KuCOJ53Nc0U&ab_channel=CyrilleAncelot
+		
+		https://aws.amazon.com/iot/solutions/industrial-iot/
+		
+		
+
+Tutorial:
+	https://docs.oracle.com/en/cloud/saas/iot-production-cloud/tutorial-configuring-production-monitoring/
+
+Blogs:
+https://dzone.com/iot-developer-tutorials-tools-news-reviews
+
+
+
+Additional Resources @ Vendors:
+https://developer.bosch-iot-suite.com/documentation/
+
+
+
+Use Case:
+https://sensegiz.us/real-time-locating-system-asset-tracking-rtls/
+
+
+MINORI;
+
+	gUIDE:
+	https://www.guru99.com/iot-tutorial.html#3
+	http://www.steves-internet-guide.com/internet-of-things/
+	https://data-flair.training/blogs/iot-tutorial/
+	https://www.tutorialspoint.com/internet_of_things/internet_of_things_quick_guide.htm
+
+	IOT Platforms to check	
+	https://www.producthunt.com/alternatives/losant-iot-platform
+	https://stackshare.io/losant/alternatives
+	https://www.g2.com/products/losant/competitors/alternatives
+	
+	

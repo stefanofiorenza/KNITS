@@ -1,0 +1,32 @@
+HyperSense 
+
+Stories:
+
+Core platform:
+- received data from all devices from all companies
+- support protocols:
+	- MQTT
+	- Http Rest
+	
+
+	
+DOMAIN:
+Device (from catalog) 
+	model
+	manufacturer
+	version
+	Description
+	
+Category
+Tag
+TechSpecifications	
+	
+Registered Device
+	- DeviceID
+	- Urn
+	- Location
+	- Date
+	- User
+	
+CustomAttributes:
+	

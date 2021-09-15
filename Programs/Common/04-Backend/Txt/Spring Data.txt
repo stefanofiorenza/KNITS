@@ -1,0 +1,35 @@
+
+
+FULL COURSE
+
+	https://www.petrikainulainen.net/spring-data-jpa-tutorial
+	https://www.javaguides.net/p/spring-data-jpa-tutorial.html
+	
+
+TOPICS:
+Spring Data Repositories
+
+	https://www.baeldung.com/spring-data-repositories
+
+
+Derived Query:
+
+	Guide
+	https://thoughts-on-java.org/ultimate-guide-derived-queries-with-spring-data-jpa/
+
+	Summarized:
+	https://www.baeldung.com/spring-data-derived-queries
+
+
+JPQL:
+
+	https://www.objectdb.com/java/jpa/query/jpql/structure
+	https://www.baeldung.com/spring-data-jpa-query
+
+	
+Criteria Api:
+	https://www.baeldung.com/spring-data-criteria-queries
+
+
+Video:
+https://www.youtube.com/watch?v=GVeY08vUiPE

@@ -1,0 +1,41 @@
+VIDEO COURSES:
+
+
+Autoconfiguration:
+	https://www.youtube.com/watch?time_continue=908&v=jDchAEHIht0&feature=emb_logo
+
+
+Full Playlist:
+
+	
+	SpringBoot@In28Minutes
+	https://www.youtube.com/playlist?list=PLBBog2r6uMCRzaJqr-uUC8gakwSxkPSBh
+	
+	SpringBoot@AmigoCode
+	https://www.youtube.com/watch?v=9SGDpanrc8U&t=29s&ab_channel=Amigoscode
+	
+	SpringBoot@JavaBrains
+	https://www.youtube.com/playlist?list=PLmbC-xnvykcghOSOJ1ZF6ja3aOgZAgaMO
+
+
+
+Spring Boot JPA:
+
+	In28Minutes
+	https://www.youtube.com/watch?v=MaI0_XdpdP8&t=2639s&ab_channel=in28minutesCloud%2CDevOpsandMicroservices
+
+	JPA and Spring Boot @Thorben Janssen
+	https://www.youtube.com/watch?v=x67yiTHxn00&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW&ab_channel=ThorbenJanssen
+	
+	Hibernate@Java Brains
+	https://www.youtube.com/playlist?list=PL4AFF701184976B25
+	
+
+
+
+Full Stack:
+
+	SpringBoot Full stack Angular@In28Steps
+
+
+	SpringBoot Full stack React@In28Steps

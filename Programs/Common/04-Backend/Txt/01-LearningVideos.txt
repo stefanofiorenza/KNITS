@@ -1,0 +1,16 @@
+VIDEO COURSES:
+
+
+Playlist:
+
+	@JavaBrains
+	Video: 	https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE
+	Git:	https://github.com/stefanofiorenza/spring-boot-security
+			jwt: https://github.com/stefanofiorenza/spring-security-jwt
+
+
+	@Romanian Coder:	
+	Video		https://www.youtube.com/playlist?list=PLVApX3evDwJ1d0lKKHssPQvzv2Ao3e__Q
+	Git 		https://github.com/stefanofiorenza/RomanianCoderExamples
+
+
