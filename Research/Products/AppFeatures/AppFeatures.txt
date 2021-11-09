@@ -1,21 +1,88 @@
 
+React - fiber performances
+https://reactjsexample.com/get-performance-measurements-from-react-fiber/
 
 
+React and Graphics:
+https://reactjsexample.com/a-react-chart-library-based-on-g2plot-g6-x6-l7/
+https://reactjsexample.com/supercharged-react-components-to-easily-build-dataviz-apps/
 
+
+Kanban
+http://react-trello-board.web-pal.com/
+
+
+React workflows:
+
+	1) reactflow:
+	https://reactflow.dev/
+	https://reactflow.dev/docs/api/node-types/
+
+	2) Flowy (No React)
+	https://github.com/alyssaxuu/flowy
+
+	3) react-flow-chart (last build failed)
+	https://www.npmjs.com/package/@mrblenny/react-flow-chart
+	
+	4) React Diagrams:
+	https://github.com/projectstorm/react-diagrams
+	http://projectstorm.cloud/react-diagrams/?path=/story/simple-usage--events-and-listeners
+	https://github.com/projectstorm/react-diagrams/tree/master/diagrams-demo-gallery/demos
+	
+	5) Flow points
+	https://www.npmjs.com/package/flowpoints
+	
+	6) Basic lines
+	https://reactjsexample.com/draw-a-line-between-two-elements-in-react/
+	
+	
+	7) Shape editor:
+	https://reactjsexample.com/simple-shape-editor-component-with-react-and-svg/
+	
+	
+Tree
+https://reactjsexample.com/a-react-library-for-generating-a-tree-graph-from-data-using-d3/
+
+Bitflow
+https://reactjsexample.com/a-react-library-for-building-flow-based-assessment-systems/
+https://github.com/openpatch/bitflow
 
 Time Line
 https://reactjsexample.com/tag/timeline/
 https://reactjsexample.com/a-vertical-timeline-component-for-react/
 https://veysiyildiz.github.io/vertical-timeline-component-for-react/#/
+https://github.com/domotang/progress-timeline-bar
 
+
+Funnel:
+https://reactjsexample.com/pipeline-funnel-react-svg-based/
+
+Map Overlay:
+https://reactjsexample.com/webgl2-powered-geospatial-visualization-layers/
+
+
+Calendar Heatmap:
+https://reactjsexample.com/a-customizable-calendar-heatmap-react-component-built-on-svg/
+https://reactjsexample.com/calendar-based-nisualization-of-one-kind-of-activity/
+https://github.com/tanykim/quantify-your-year
+
+MISC:
+Customizable flags
+https://reactjsexample.com/a-customizable-svg-flags-select-components-for-react-js/
 
 
 Horizontal process timeline bar
 https://reactjsexample.com/highly-customizable-progress-timeline-bar-which-emphasizes-due-process/
 https://github.com/domotang/progress-timeline-bar
+https://reactjsexample.com/a-calendar-heatmap-component-built-on-svg/
+
 
 
 Mind Maps (Tree View)
 https://fperucic.github.io/treant-js/
 https://stackblitz.com/edit/react-treeview-js-bvzd9b?file=treeView.js
 https://github.com/stefanofiorenza/descendant_tree
+
+
+Speedometer
+https://reactjsexample.com/a-react-component-for-showing-speedometer-like-gauge-using-d3/

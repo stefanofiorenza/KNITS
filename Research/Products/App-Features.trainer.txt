@@ -35,15 +35,11 @@ https://www.npmjs.com/package/react-vertical-timeline-component
 https://reactflow.dev/#:~:text=React%20Flow%20enables%20you%20to,%2D%2Dsave%20react%2Dflow%2Drenderer
 
 Tree view:
+	https://fperucic.github.io/treant-js/
+	https://codesandbox.io/s/react-orgchart-demo-o3nf6
 
-https://fperucic.github.io/treant-js/
+	Usable in ..
 
-
-https://codesandbox.io/s/react-orgchart-demo-o3nf6
-
-Usable in ..
-
-	Bill Of Materials
-	
-	
-	Career Path
+		Bill Of Materials
+		SkillQuest
+		Career Path
